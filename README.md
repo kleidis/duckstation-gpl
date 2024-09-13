@@ -1,3 +1,27 @@
+
+> **Archive:** Archive of DuckStation before Stenzek crashed out (again) and sneakily changed the license for no reason.
+
+<details>
+  <summary><strong>Dear Stenzek</strong></summary>
+
+You wanna fuck this shit up.
+
+You goin' too fast, what the fuck?
+
+Where the hell we goin'?
+
+Yeah, slatt gotta fuck it first 'cause I don't know.
+
+Yeah, slatt gotta fuck that ho, it ain't my ho (Hold up).
+
+Fuck Up.
+
+Gone.
+
+</details>
+
+---
+
 # DuckStation - PlayStation 1, aka. PSX Emulator
 [Features](#features) | [Downloading and Running](#downloading-and-running) | [Building](#building) | [Disclaimers](#disclaimers)
 
